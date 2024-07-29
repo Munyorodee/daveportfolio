@@ -2206,18 +2206,6 @@ input, select, textarea {
         }
 
 	/* Basic CSS for layout and styling */
-        .background {
-            content: "";
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: url('images/mewife.jpg') no-repeat center center;
-            background-size: cover;
-            
-            z-index: -2;
-        }
         .button {
             display: inline-block;
             padding: 10px 20px;
